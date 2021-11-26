@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\进阶\Desktop\大黑山特产\图1\图1\源.cpp(2,1): warning C4005: “INFINITY”: 宏重定义
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(90): message : 参见“INFINITY”的前一个定义
+  图1.vcxproj -> C:\Users\进阶\Desktop\大黑山特产\图1\Debug\图1.exe

@@ -1,0 +1,21 @@
+﻿  源.cpp
+C:\Users\进阶\Desktop\大黑山特产\huffman树\huffman树\源.cpp(265,2): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\进阶\Desktop\大黑山特产\huffman树\huffman树\源.cpp(262): message : 在编译 类 模板 成员函数“void HuffmanTree<char>::yima(std::string)”时
+C:\Users\进阶\Desktop\大黑山特产\huffman树\huffman树\源.cpp(339): message : 查看对正在编译的函数 模板 实例化“void HuffmanTree<char>::yima(std::string)”的引用
+C:\Users\进阶\Desktop\大黑山特产\huffman树\huffman树\源.cpp(335): message : 查看对正在编译的 类 模板 实例化“HuffmanTree<char>”的引用
+C:\Users\进阶\Desktop\大黑山特产\huffman树\huffman树\源.cpp(241,2): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\进阶\Desktop\大黑山特产\huffman树\huffman树\源.cpp(239): message : 在编译 类 模板 成员函数“void HuffmanTree<char>::bianma(std::string)”时
+C:\Users\进阶\Desktop\大黑山特产\huffman树\huffman树\源.cpp(342): message : 查看对正在编译的函数 模板 实例化“void HuffmanTree<char>::bianma(std::string)”的引用
+C:\Users\进阶\Desktop\大黑山特产\huffman树\huffman树\源.cpp(220,7): warning C4101: “i”: 未引用的局部变量
+C:\Users\进阶\Desktop\大黑山特产\huffman树\huffman树\源.cpp(218): message : 在编译 类 模板 成员函数“void HuffmanTree<char>::bianli(HuffmanTreeNode<T> *,HuffmanTreeNode<T> *,std::string,T *,int &)”时
+          with
+          [
+              T=char
+          ]
+C:\Users\进阶\Desktop\大黑山特产\huffman树\huffman树\源.cpp(256): message : 查看对正在编译的函数 模板 实例化“void HuffmanTree<char>::bianli(HuffmanTreeNode<T> *,HuffmanTreeNode<T> *,std::string,T *,int &)”的引用
+          with
+          [
+              T=char
+          ]
+C:\Users\进阶\Desktop\大黑山特产\huffman树\huffman树\源.cpp(220,10): warning C4101: “n”: 未引用的局部变量
+  huffman树.vcxproj -> C:\Users\进阶\Desktop\大黑山特产\huffman树\Debug\huffman树.exe
